@@ -1197,11 +1197,13 @@ body {
     height: 192px;
     width: 333px;
   }
-  .container1 p{
-   font-size: 11px;
-   width: 100%;
+
+  .container1 p {
+    font-size: 11px;
+    margin: auto;
+    width: 85%;
   }
- 
+
 
   .New {
     flex-wrap: wrap;
