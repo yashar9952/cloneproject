@@ -1137,10 +1137,6 @@ body {
     display: none;
   }
 
-  .container1 {
-    width: 375px;
-  }
-
   .itm {
     flex-wrap: wrap;
   }
