@@ -7,7 +7,7 @@
 
 body {
   width: 100%;
-  overflow-x: hidden;
+  overflow: hidden;
   overflow-y: auto;
 }
 
@@ -971,9 +971,9 @@ body {
   }
 
   .font p {
-            width: 341px;
-        line-height: 27px;
-        font-size: 11px;
+    width: 341px;
+    line-height: 27px;
+    font-size: 11px;
   }
 
   .no4 img {
@@ -1190,14 +1190,19 @@ body {
   }
 
   .card img {
-    height: 200px;
-    width: 350px;
+    height: 192px;
+    width: 333px;
   }
 
   .card2 img {
-    height: 200px;
-    width: 350px;
+    height: 192px;
+    width: 333px;
   }
+  .contaner1 p{
+    width: 100%;
+    font-size: 0;
+  }
+ 
 
   .New {
     flex-wrap: wrap;
@@ -1232,10 +1237,13 @@ body {
   }
 
   .font p {
-    width: 360px;
+    /* width: 360px;
     margin-bottom: 30px;
     line-height: 27px;
-    font-size: 13px;
+    font-size: 13px; */
+    width: 341px;
+    line-height: 27px;
+    font-size: 11px;
   }
 
   .bgcarer img {
