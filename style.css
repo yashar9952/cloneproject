@@ -1138,7 +1138,6 @@ body {
   }
 
   .container1 {
-
     width: 375px;
   }
 
@@ -1198,9 +1197,8 @@ body {
     height: 192px;
     width: 333px;
   }
-  .contaner1 p{
-    width: 100%;
-    font-size: 0;
+  .container1 p{
+   font-size: 11px;
   }
  
 
