@@ -876,7 +876,7 @@
   }
 }
 
-@media(max-width:426px) {
+@media(max-width:450px) {
   .navbar {
     padding-right: 0;
     justify-content: center;
