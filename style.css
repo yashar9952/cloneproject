@@ -784,7 +784,8 @@
     gap: 104px;
     margin-right: 0;
   }
-  .footer-logo img{
+
+  .footer-logo img {
     height: 30px;
     margin-top: 12px;
     margin-left: 114px;
@@ -817,7 +818,8 @@
     margin-left: 72px;
     font-size: 10px;
   }
-  .logo{
+
+  .logo {
     padding-left: 0;
   }
 
@@ -832,11 +834,11 @@
   }
 
   .container1 h2 {
-    font-size: 15px;
+    font-size: 13px;
   }
 
   .container1 p {
-    font-size: 10px;
+    font-size: 15px;
   }
 
   #text3 {
@@ -880,6 +882,7 @@
     justify-content: center;
     padding: 0.8rem 0rem;
   }
+
   .logo {
     padding-left: 0;
   }
@@ -962,9 +965,9 @@
   }
 
   .font p {
-    width: 374px;
-    line-height: 27px;
-    font-size: 13px;
+            width: 341px;
+        line-height: 27px;
+        font-size: 11px;
   }
 
   .no4 img {
@@ -1095,7 +1098,8 @@
   .Community h3 {
     top: 38px;
     font-size: 16px;
-    left: 16px;
+    left: 0;
+    margin-left: 13px;
   }
 
   .cover h3 {
@@ -1350,8 +1354,8 @@
   }
 
   .card img {
-    height: 200px;
-    width: 300px;
+    height: 165px;
+    width: 291px;
   }
 
   .third {
@@ -1366,8 +1370,8 @@
   }
 
   .card2 img {
-    height: 200px;
-    width: 300px;
+    height: 165px;
+    width: 291px;
   }
 
   .container1 {
