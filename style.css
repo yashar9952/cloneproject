@@ -5,6 +5,12 @@
   font-family: Open Sans, Arial, Helvetica Neue, Helvetica, Droid Sans, sans-serif;
 }
 
+body {
+  width: 100%;
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+
 .navbar {
   z-index: 999;
   position: fixed;
@@ -876,7 +882,7 @@
   }
 }
 
-@media(max-width:450px) {
+@media(max-width:500px) {
   .navbar {
     padding-right: 0;
     justify-content: center;
